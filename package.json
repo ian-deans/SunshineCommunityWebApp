@@ -1,0 +1,25 @@
+{
+  "name": "sunshine-community-social-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NinjaPirateMonkey/SunshineCommunityWebApp.git"
+  },
+  "keywords": [
+    "sunshine",
+    "community",
+    "sunshinecommunity",
+    "sunshine_community"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NinjaPirateMonkey/SunshineCommunityWebApp/issues"
+  },
+  "homepage": "https://github.com/NinjaPirateMonkey/SunshineCommunityWebApp#readme"
+}
