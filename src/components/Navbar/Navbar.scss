@@ -1,0 +1,19 @@
+
+.scc-navbar-container {
+  width: 100%;
+
+  .navbar-top {
+    border: solid 1px black;
+  }
+
+  .navbar-menu {
+    display: flex;
+    flex-direction: column;
+    border: solid 1px black;
+  }
+
+
+}
+
+.flex {display: flex;}
+.column {flex-direction: column;}
